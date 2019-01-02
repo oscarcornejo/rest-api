@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "rest-api": "restapi-95abd",
+    "default": "restapi-95abd"
+  }
+}
